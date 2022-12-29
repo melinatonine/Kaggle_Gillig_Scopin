@@ -1,0 +1,1 @@
+kaggle competitions submit -c dreem-automated-sleep-staging -f submission.csv -m "Message"
